@@ -24,10 +24,10 @@ I am a Physics PhD candidate at Harvard University working at the intersection o
 
 ## Selected public projects
 
-### [Materials Data Analysis](https://github.com/mebrahimi21/materials-data-analysis)
+### [Materials Data Analysis](https://github.com/MahsaEbrahimi21/materials-data-analysis)
 Generic materials-mechanics utilities for strain tensors, principal values, and resolved shear stress using synthetic/example data.
 
-### [Microscopy Data Tools](https://github.com/mebrahimi21/microscopy-data-tools)
+### [Microscopy Data Tools](https://github.com/MahsaEbrahimi21/microscopy-data-tools)
 Small scientific-Python utilities for processing and analyzing synthetic 3D microscopy volumes.
 
 ## Publications
