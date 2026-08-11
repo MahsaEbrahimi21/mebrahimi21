@@ -3,6 +3,8 @@
 **Physics PhD Candidate at Harvard University**  
 Experimental Materials Physics · Microfabrication · 3D Microscopy · Scientific Computing
 
+[📄 View my CV](CV.md)
+
 I am a Physics PhD candidate at Harvard University working at the intersection of experimental materials physics, microfabrication, microscopy, mechanics, and scientific computing. My research combines controlled experiments with particle-resolved imaging and computational modeling to study deformation and defects in crystalline materials.
 
 ## Technical interests
